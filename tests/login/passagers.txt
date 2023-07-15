@@ -1,0 +1,72 @@
+ async function passagrsAdulto2(){
+        await page.locator('input[name="passenger[1][firstname]"]').nth(1).fill('Arthur');
+        await page.fill("#passengerAdlLastName_1","Perdigao de Souza");
+        await page.locator('input[name="passenger[1][birthdate]"]').fill('19/08/1998');
+        await page.locator("#passengerAdlGender_1").nth(0).selectOption("Masculino");
+        await page.locator("#passengerAdlDocumentType_1").selectOption("CPF");
+        await page.locator('input[name="passenger[1][_document]"]').fill('62418955087');
+        await page.locator('input[name="passenger[1][_phone_number]"]').nth(1).fill('31999999998')
+        await page.locator('input[name="passenger[1][email]"]').nth(0).fill('arthur.souza2@123milhas.com')
+    
+    
+    }
+
+    async function passagersChildren1() {
+        await page.locator('input[name="passenger_children[0][firstname]"]').nth(1).fill('Arthur')
+        await page.locator('input[name="passenger_children[0][lastname]"]').nth(0).fill('kidprimeiro')
+        await page.locator('input[name="passenger_children[0][birthdate]"]').nth(0).fill('19/08/2010');
+        await page.locator("#passengerAdlGender_1").nth(2).selectOption("Masculino");
+        await page.locator("#passengerAdlDocumentType_1").nth(2).selectOption("CPF");
+        await page.locator('input[name="passenger_children[0][_document]"]').nth(0).fill('40332085007')
+        
+    }
+    async function passagersChildren2() {
+        await page.locator('input[name="passenger_children[1][firstname]"]').nth(1).fill('Arthur')
+        await page.locator('input[name="passenger_children[1][lastname]"]').nth(1).fill('kidsegundo')
+        await page.locator('input[name="passenger_children[1][birthdate]"]').nth(1).fill('19/08/2010');
+        await page.locator("#passengerAdlGender_1").nth(3).selectOption("Masculino");
+        await page.locator("#passengerAdlDocumentType_1").nth(3).selectOption("CPF");
+        await page.locator('input[name="passenger_children[1][_document]"]').fill('02801738069')
+        
+    }
+
+    async function passagersBaby(){
+        await page.locator('input[name="passenger_baby[0][firstname]"]').fill('Arthur')
+        await page.locator('input[name="passenger_baby[0][lastname]"]').fill('kidone')
+        await page.locator('input[name="passenger_baby[0][birthdate]"]').fill('19/08/2022');
+        await page.locator("#passengerAdlGender_1").nth(4).selectOption("Masculino");
+        await page.locator("#passengerAdlDocumentType_1").nth(4).selectOption("CPF");
+        await page.locator('input[name="passenger_baby[0][_document]"]').fill('75348084050')
+
+
+    }
+    async function passagersBaby2(){
+        await page.locator('input[name="passenger_baby[1][firstname]"]').fill('Arthur')
+        await page.locator('input[name="passenger_baby[1][lastname]"]').fill('kidtwo')
+        await page.locator('input[name="passenger_baby[1][birthdate]"]').fill('19/08/2022');
+        await page.locator("#passengerAdlGender_1").nth(5).selectOption("Masculino");
+        await page.locator("#passengerAdlDocumentType_1").nth(5).selectOption("CPF");
+        await page.locator('input[name="passenger_baby[0][_document]"]').fill('28855850059')
+    }
+
+    // A seguir os preenchimentos caso tenha mais de um passageiro
+
+    if (await page.locator('input[name="passenger[1][firstname]"]').isVisible()) {
+        await passagrsAdulto2();
+      }// se exitir passageiro adulto 2 ele preenche
+
+    if (await page.locator('input[name="passenger_children[0][firstname]"]').isVisible()) {
+        await passagersChildren1();
+      }// se exitir passageiro criança 1 ele preenche
+
+    if (await page.locator('input[name="passenger_children[1][firstname]"]').isVisible()) {
+        await passagersChildren2();
+      }// se exitir passageiro criança 2 ele preenche
+
+    if (await page.locator('input[name="passenger_baby[0][firstname]"]').isVisible()) {
+        await passagersBaby();
+      }// se exitir passageiro bebe 1 ele preenche
+
+    if (await page.locator('input[name="passenger_baby[2][firstname]"]').isVisible()) {
+        await passagersBaby2();
+      }// se exitir passageiro bebe 2 ele preenche

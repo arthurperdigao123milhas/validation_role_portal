@@ -1,0 +1,151 @@
+{
+  "cookies": [
+    {
+      "name": "ab6",
+      "value": "a",
+      "domain": "teste07.123milhas.com",
+      "path": "/",
+      "expires": 1683312312.665028,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ZqtCfX7j8cWWbXiOCu8..gq9.wLHRms._tjPTJfiByc-1682707518-0-AZYLI6SgWmWmxBmmiu6KvTNNj9tHVSvt8vONZICCaLQm6g6i/j7cpsOp/IgRBFjdA0jOMfrJt5m16QTfwYl46aE=",
+      "domain": ".useinsider.com",
+      "path": "/",
+      "expires": 1682709318.174428,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "laravel_session",
+      "value": "g95hzQDMO2YNKiLKXWzhOy477mZuLWf1hIKXCvNk",
+      "domain": "teste07.123milhas.com",
+      "path": "/",
+      "expires": 1682715099.475391,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__kdtv",
+      "value": "t%3D1682707806734%3Bi%3Ddffdbec62d6f83ae62d0e7208ccfb98609c3a5cf",
+      "domain": ".123milhas.com",
+      "path": "/",
+      "expires": 1714330292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_kdt",
+      "value": "%7B%22t%22%3A1682707806734%2C%22i%22%3A%22dffdbec62d6f83ae62d0e7208ccfb98609c3a5cf%22%7D",
+      "domain": ".123milhas.com",
+      "path": "/",
+      "expires": 1714330292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shared_id",
+      "value": "eyJpdiI6ImpWUzhvN2hXekpKRXZPRnBCelo4aXc9PSIsInZhbHVlIjoiSVwvR3BPNGZBSVdpWWFaUlJqMVZwSWJRaHRyK29mMlJkQTZ0eFhScnFqaDcwZGErQ1pqYm10ZmoydnJmZEpBWXMiLCJtYWMiOiI3ZjFkZjU5NzRiMGFhYjhjYTM1Y2IyYjY5OGE0MGFkN2NhZjdlOTM5N2Y3NzA1MTAyNGRhZGFkNDJjMTIxYWY3In0%3D",
+      "domain": "teste07.123milhas.com",
+      "path": "/",
+      "expires": 1717267899.183691,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "temp_shared_id",
+      "value": "eyJpdiI6IlVhZ2NuK2pONEV6dElFOEFFaWdJSnc9PSIsInZhbHVlIjoiTWFDR0hNcjFwNkI0UEt1V2V4aWdoUVNqRjh5RUVxVG5jSXI2ZDlvTnNwQllmemY1dmV0KzlWY09hbFJKN1JaNklBQm1MTjBSWk1cLzRyUmkzcnUwYnpnPT0iLCJtYWMiOiJmYjVjOGVjMjMzYzc5MjhlZWFiZDFjZjNmNTZlYzhmZjUzODgyODRkZmY1ZTRhZmQzZjRkODk2ODhjNzQyMGEyIn0%3D",
+      "domain": "teste07.123milhas.com",
+      "path": "/",
+      "expires": 1682709099.183724,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IlhhbHFRRU9mdlwvaVdTRjdZMnRUK293PT0iLCJ2YWx1ZSI6InlDSVwvU2JiV2h2aGFkcWluUmQ4QW5CUXRDaDZzV3lLN05RUTFoaUF5TzYzN1lEVit1Y1BRYVkzclZSRzFBNUNMcDk0ck1ZRjl2MHVRbmJVNVF1SEQzZz09IiwibWFjIjoiMzUyZTc1MzY5N2M4ZmY0ZDYxYWJlNTVmNjI2M2Q5Y2VmNTg4ZmY3ODIxMWYxYzI1OTA2MjQ0N2JlY2FhYmIxYiJ9",
+      "domain": "teste07.123milhas.com",
+      "path": "/",
+      "expires": 1682715099.183734,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://teste07.123milhas.com",
+      "localStorage": [
+        {
+          "name": "ngStorage-search-1807404",
+          "value": "{\"id\":1807404,\"renewable\":true,\"error\":false,\"airlines\":{\"GOL\":0,\"TAM\":0,\"AZU\":0,\"AVI\":false,\"VJN\":20,\"AZC\":0,\"RXT\":0,\"WOB\":false,\"CFC\":0,\"ITA\":false,\"FLT\":0,\"FRT\":false,\"RXO\":0,\"AZO\":0,\"CFO\":0,\"PTR\":false,\"FLI\":false,\"CFA\":false,\"SKY\":false,\"TLR\":false,\"BRT\":false,\"SKR\":0,\"SKA\":0},\"params\":{\"round\":true,\"departure_location\":{\"code\":\"SAO\",\"name\":\"São Paulo\",\"alt_name\":\"\",\"display_name\":\"São Paulo - Todos os Aeroportos (SAO)\",\"lat\":-19.563056,\"lon\":-46.960278,\"city\":\"São Paulo\",\"state\":\"São Paulo\",\"state_abbr\":\"SP\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"GRU\",\"CGH\",\"VCP\",\"São Paulo\",\"Congonhas\",\"Guarulhos\",\"Viracopos\",\"São Paulo\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"locality\":{\"display\":\"São Paulo\"},\"city\":{\"display\":\"São Paulo\"},\"state\":{\"long_name\":\"São Paulo\",\"short_name\":\"SP\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"}},\"formatted_address\":\"São Paulo, SP, Brasil\",\"location\":{\"lat\":-23.5505199,\"lng\":-46.6333094},\"plus_code\":null},\"display_city\":\"São Paulo\",\"display_state\":\"São Paulo\",\"display_country\":\"Brasil\",\"slug\":\"sao-sao-paulo\"},\"arrival_location\":{\"code\":\"CNF\",\"name\":\"Belo Horizonte - Confins\",\"alt_name\":\"Confins\",\"display_name\":\"Belo Horizonte - Confins (CNF)\",\"lat\":-19.63375,\"lon\":-43.968856,\"city\":\"Belo Horizonte\",\"state\":\"Minas Gerais\",\"state_abbr\":\"MG\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"CNF\",\"Tancredo Neves\",\"Confins\",\"Minas Gerais\",\"Belo Horizonte\",\"Minas Gerais\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"0\":{\"display\":\"7,9\"},\"airport\":{\"display\":\"Aeroporto Internacional de Confins - Tancredo Neves\"},\"street_number\":{\"display\":\"s/n\"},\"route\":{\"display\":\"LMG-800\"},\"city\":{\"display\":\"Confins\"},\"state\":{\"long_name\":\"Minas Gerais\",\"short_name\":\"MG\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"},\"postal_code\":{\"display\":\"33500-900\"}},\"formatted_address\":\"Aeroporto Internacional de Confins - Tancredo Neves (CNF) - 7,9, LMG-800, s/n, Confins - MG, 33500-900, Brasil\",\"location\":{\"lat\":-19.634099,\"lng\":-43.965396},\"plus_code\":{\"compound_code\":\"928M+9R Confins, MG, Brasil\",\"global_code\":\"58GR928M+9R\"}},\"display_city\":\"Confins\",\"display_state\":\"Minas Gerais\",\"display_country\":\"Brasil\",\"slug\":\"cnf-belo-horizonte-confins\"},\"outbound_date\":\"2023-09-06T18:45:23.841Z\",\"inbound_date\":\"2023-09-09T18:45:23.841Z\",\"passengers\":{\"adl\":1,\"chd\":0,\"inf\":0},\"cabin\":\"3\",\"isInter\":false,\"valid\":true,\"is_loyalty\":true,\"currencyType\":\"0\",\"isRevisionPage\":false,\"package_departure\":{\"code\":\"SAO\",\"name\":\"São Paulo\",\"alt_name\":\"\",\"display_name\":\"São Paulo - Todos os Aeroportos (SAO)\",\"lat\":-19.563056,\"lon\":-46.960278,\"city\":\"São Paulo\",\"state\":\"São Paulo\",\"state_abbr\":\"SP\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"GRU\",\"CGH\",\"VCP\",\"São Paulo\",\"Congonhas\",\"Guarulhos\",\"Viracopos\",\"São Paulo\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"locality\":{\"display\":\"São Paulo\"},\"city\":{\"display\":\"São Paulo\"},\"state\":{\"long_name\":\"São Paulo\",\"short_name\":\"SP\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"}},\"formatted_address\":\"São Paulo, SP, Brasil\",\"location\":{\"lat\":-23.5505199,\"lng\":-46.6333094},\"plus_code\":null},\"display_city\":\"São Paulo\",\"display_state\":\"São Paulo\",\"display_country\":\"Brasil\",\"slug\":\"sao-sao-paulo\"},\"package_arrival\":{\"code\":\"CNF\",\"alt_name\":\"Confins\",\"display_name\":\"Belo Horizonte - Confins (CNF)\",\"lat\":-19.63375,\"lon\":-43.968856,\"city\":\"Belo Horizonte\",\"state\":\"Minas Gerais\",\"state_abbr\":\"MG\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"CNF\",\"Tancredo Neves\",\"Confins\",\"Minas Gerais\",\"Belo Horizonte\",\"Minas Gerais\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"0\":{\"display\":\"7,9\"},\"airport\":{\"display\":\"Aeroporto Internacional de Confins - Tancredo Neves\"},\"street_number\":{\"display\":\"s/n\"},\"route\":{\"display\":\"LMG-800\"},\"city\":{\"display\":\"Confins\"},\"state\":{\"long_name\":\"Minas Gerais\",\"short_name\":\"MG\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"},\"postal_code\":{\"display\":\"33500-900\"}},\"formatted_address\":\"Aeroporto Internacional de Confins - Tancredo Neves (CNF) - 7,9, LMG-800, s/n, Confins - MG, 33500-900, Brasil\",\"location\":{\"lat\":-19.634099,\"lng\":-43.965396},\"plus_code\":{\"compound_code\":\"928M+9R Confins, MG, Brasil\",\"global_code\":\"58GR928M+9R\"}},\"display_city\":\"Confins\",\"display_state\":\"Minas Gerais\",\"display_country\":\"Brasil\",\"slug\":\"cnf-belo-horizonte-confins\"},\"airlines\":[],\"inbound_id\":null,\"outbound_id\":null},\"loading\":false,\"searchIsFinish\":true,\"ap\":131,\"cityCodeRelation\":\"SAOBHZ,SAOBHZ6-09-2023-9-09-2023,SAOCNF,SAOCNF6-09-2023-9-09-2023,SAOPLU,SAOPLU6-09-2023-9-09-2023,CGHBHZ,CGHBHZ6-09-2023-9-09-2023,CGHCNF,CGHCNF6-09-2023-9-09-2023,CGHPLU,CGHPLU6-09-2023-9-09-2023,GRUBHZ,GRUBHZ6-09-2023-9-09-2023,GRUCNF,GRUCNF6-09-2023-9-09-2023,GRUPLU,GRUPLU6-09-2023-9-09-2023,VCPBHZ,VCPBHZ6-09-2023-9-09-2023,VCPCNF,VCPCNF6-09-2023-9-09-2023,VCPPLU,VCPPLU6-09-2023-9-09-2023,BHZSAO,BHZSAO6-09-2023-9-09-2023,BHZCGH,BHZCGH6-09-2023-9-09-2023,BHZGRU,BHZGRU6-09-2023-9-09-2023,BHZVCP,BHZVCP6-09-2023-9-09-2023,CNFSAO,CNFSAO6-09-2023-9-09-2023,CNFCGH,CNFCGH6-09-2023-9-09-2023,CNFGRU,CNFGRU6-09-2023-9-09-2023,CNFVCP,CNFVCP6-09-2023-9-09-2023,PLUSAO,PLUSAO6-09-2023-9-09-2023,PLUCGH,PLUCGH6-09-2023-9-09-2023,PLUGRU,PLUGRU6-09-2023-9-09-2023,PLUVCP,PLUVCP6-09-2023-9-09-2023\",\"ttl\":59934,\"expires\":1682767465000,\"timeLifeSearch\":\"999\",\"lastUrl\":\"/v2/busca?de=SAO&para=CNF&ida=06-09-2023&volta=09-09-2023&adultos=1&criancas=0&bebes=0&classe=3&is_loyalty=0&search_id=1807404\"}"
+        },
+        {
+          "name": "ngStorage-trip",
+          "value": "{\"round\":true,\"departure_location\":{\"code\":\"SAO\",\"name\":\"São Paulo\",\"alt_name\":\"\",\"display_name\":\"São Paulo - Todos os Aeroportos (SAO)\",\"lat\":-19.563056,\"lon\":-46.960278,\"city\":\"São Paulo\",\"state\":\"São Paulo\",\"state_abbr\":\"SP\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"GRU\",\"CGH\",\"VCP\",\"São Paulo\",\"Congonhas\",\"Guarulhos\",\"Viracopos\",\"São Paulo\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"locality\":{\"display\":\"São Paulo\"},\"city\":{\"display\":\"São Paulo\"},\"state\":{\"long_name\":\"São Paulo\",\"short_name\":\"SP\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"}},\"formatted_address\":\"São Paulo, SP, Brasil\",\"location\":{\"lat\":-23.5505199,\"lng\":-46.6333094},\"plus_code\":null},\"display_city\":\"São Paulo\",\"display_state\":\"São Paulo\",\"display_country\":\"Brasil\",\"slug\":\"sao-sao-paulo\"},\"arrival_location\":{\"code\":\"CNF\",\"name\":\"Belo Horizonte - Confins\",\"alt_name\":\"Confins\",\"display_name\":\"Belo Horizonte - Confins (CNF)\",\"lat\":-19.63375,\"lon\":-43.968856,\"city\":\"Belo Horizonte\",\"state\":\"Minas Gerais\",\"state_abbr\":\"MG\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"CNF\",\"Tancredo Neves\",\"Confins\",\"Minas Gerais\",\"Belo Horizonte\",\"Minas Gerais\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"0\":{\"display\":\"7,9\"},\"airport\":{\"display\":\"Aeroporto Internacional de Confins - Tancredo Neves\"},\"street_number\":{\"display\":\"s/n\"},\"route\":{\"display\":\"LMG-800\"},\"city\":{\"display\":\"Confins\"},\"state\":{\"long_name\":\"Minas Gerais\",\"short_name\":\"MG\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"},\"postal_code\":{\"display\":\"33500-900\"}},\"formatted_address\":\"Aeroporto Internacional de Confins - Tancredo Neves (CNF) - 7,9, LMG-800, s/n, Confins - MG, 33500-900, Brasil\",\"location\":{\"lat\":-19.634099,\"lng\":-43.965396},\"plus_code\":{\"compound_code\":\"928M+9R Confins, MG, Brasil\",\"global_code\":\"58GR928M+9R\"}},\"display_city\":\"Confins\",\"display_state\":\"Minas Gerais\",\"display_country\":\"Brasil\",\"slug\":\"cnf-belo-horizonte-confins\"},\"outbound_date\":\"2023-09-06T18:51:38.929Z\",\"inbound_date\":\"2023-09-09T18:51:38.929Z\",\"passengers\":{\"adl\":1,\"chd\":0,\"inf\":0},\"cabin\":\"3\",\"isInter\":false,\"valid\":true,\"is_loyalty\":true,\"currencyType\":\"0\",\"isRevisionPage\":false,\"package_departure\":{\"code\":\"SAO\",\"name\":\"São Paulo\",\"alt_name\":\"\",\"display_name\":\"São Paulo - Todos os Aeroportos (SAO)\",\"lat\":-19.563056,\"lon\":-46.960278,\"city\":\"São Paulo\",\"state\":\"São Paulo\",\"state_abbr\":\"SP\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"GRU\",\"CGH\",\"VCP\",\"São Paulo\",\"Congonhas\",\"Guarulhos\",\"Viracopos\",\"São Paulo\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"locality\":{\"display\":\"São Paulo\"},\"city\":{\"display\":\"São Paulo\"},\"state\":{\"long_name\":\"São Paulo\",\"short_name\":\"SP\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"}},\"formatted_address\":\"São Paulo, SP, Brasil\",\"location\":{\"lat\":-23.5505199,\"lng\":-46.6333094},\"plus_code\":null},\"display_city\":\"São Paulo\",\"display_state\":\"São Paulo\",\"display_country\":\"Brasil\",\"slug\":\"sao-sao-paulo\"},\"package_arrival\":{\"code\":\"CNF\",\"alt_name\":\"Confins\",\"display_name\":\"Belo Horizonte - Confins (CNF)\",\"lat\":-19.63375,\"lon\":-43.968856,\"city\":\"Belo Horizonte\",\"state\":\"Minas Gerais\",\"state_abbr\":\"MG\",\"country\":\"Brazil\",\"regionCode\":\"BRAZIL\",\"domestic\":true,\"tokens\":[\"CNF\",\"Tancredo Neves\",\"Confins\",\"Minas Gerais\",\"Belo Horizonte\",\"Minas Gerais\"],\"tz\":\"America/Sao_Paulo\",\"google_data\":{\"address\":{\"0\":{\"display\":\"7,9\"},\"airport\":{\"display\":\"Aeroporto Internacional de Confins - Tancredo Neves\"},\"street_number\":{\"display\":\"s/n\"},\"route\":{\"display\":\"LMG-800\"},\"city\":{\"display\":\"Confins\"},\"state\":{\"long_name\":\"Minas Gerais\",\"short_name\":\"MG\"},\"country\":{\"long_name\":\"Brasil\",\"short_name\":\"BR\"},\"postal_code\":{\"display\":\"33500-900\"}},\"formatted_address\":\"Aeroporto Internacional de Confins - Tancredo Neves (CNF) - 7,9, LMG-800, s/n, Confins - MG, 33500-900, Brasil\",\"location\":{\"lat\":-19.634099,\"lng\":-43.965396},\"plus_code\":{\"compound_code\":\"928M+9R Confins, MG, Brasil\",\"global_code\":\"58GR928M+9R\"}},\"display_city\":\"Confins\",\"display_state\":\"Minas Gerais\",\"display_country\":\"Brasil\",\"slug\":\"cnf-belo-horizonte-confins\"},\"airlines\":[],\"inbound_id\":null,\"outbound_id\":null}"
+        },
+        {
+          "name": "@bus/form-state",
+          "value": "{\"origin\":null,\"destiny\":null,\"departureDate\":null,\"returnDate\":null,\"roundTripRequired\":false,\"passengers\":1}"
+        },
+        {
+          "name": "@socialLogin/socialProvidersConfigs",
+          "value": "{\"facebook\":true,\"google\":true}"
+        },
+        {
+          "name": "ngStorage-hotelTripStorage",
+          "value": "[{\"searchId\":0,\"location\":null,\"checkinDate\":null,\"checkoutDate\":null,\"hotel\":{},\"rooms\":[{\"adults\":{\"quantity\":2},\"children\":{\"quantity\":0,\"ages\":[]}}],\"expires\":null,\"ttl\":null}]"
+        },
+        {
+          "name": "@insurance/form-state",
+          "value": "{\"arrival\":null,\"outboundDate\":null,\"inboundDate\":null,\"travelers\":{\"adult\":1,\"children\":0,\"elderly\":0}}"
+        },
+        {
+          "name": "ngStorage-errorRecaptcha",
+          "value": "false"
+        },
+        {
+          "name": "ngStorage-loggedUser",
+          "value": "{\"id\":14449,\"email\":\"arthur.souza@123milhas.com.br\",\"firstname\":\"Arthur\",\"fullname\":\"Arthur Perdigão\",\"document\":\"68908836080\",\"cellphone_number\":\"31999999999\",\"phone_number\":null,\"birthdate\":\"1998-08-19T00:00:00-03:00\",\"gender\":\"M\",\"status\":1,\"accept_terms\":\"2022-08-30T00:00:00-03:00\",\"confirmed_email\":\"2022-08-30T09:55:06-03:00\",\"is_staff\":0,\"is_super\":0,\"is_loyalty\":0,\"created_at\":\"2022-08-30T09:54:52-03:00\",\"updated_at\":\"2023-03-20T10:52:28-03:00\",\"corporate_name\":\"\",\"fantasy_name\":\"\",\"type_person\":0,\"lastname\":\"Perdigão\",\"receive_marketing\":1,\"api_token\":\"\",\"created_date\":null,\"code_back_office\":null,\"last_feedback_prompt\":\"2023-03-20T00:00:00-03:00\",\"deactivate_reason\":null,\"loyalty_date\":null,\"address\":{\"id\":14375,\"fk_user_id\":14449,\"title\":null,\"address\":\"Rua Virginópolis\",\"complement\":\"\",\"city\":\"Santa Luzia\",\"state\":\"MG\",\"zip\":\"33120070\",\"is_main\":null,\"number\":\"885\",\"country\":\"Brazil\",\"created_at\":\"2022-08-30 12:54:52\",\"updated_at\":\"2022-08-30 12:54:52\",\"county\":\"Asteca (São Benedito)\"}}"
+        },
+        {
+          "name": "cityCodeRelation",
+          "value": "SAOBHZ,SAOBHZ6-09-2023-9-09-2023,SAOCNF,SAOCNF6-09-2023-9-09-2023,SAOPLU,SAOPLU6-09-2023-9-09-2023,CGHBHZ,CGHBHZ6-09-2023-9-09-2023,CGHCNF,CGHCNF6-09-2023-9-09-2023,CGHPLU,CGHPLU6-09-2023-9-09-2023,GRUBHZ,GRUBHZ6-09-2023-9-09-2023,GRUCNF,GRUCNF6-09-2023-9-09-2023,GRUPLU,GRUPLU6-09-2023-9-09-2023,VCPBHZ,VCPBHZ6-09-2023-9-09-2023,VCPCNF,VCPCNF6-09-2023-9-09-2023,VCPPLU,VCPPLU6-09-2023-9-09-2023,BHZSAO,BHZSAO6-09-2023-9-09-2023,BHZCGH,BHZCGH6-09-2023-9-09-2023,BHZGRU,BHZGRU6-09-2023-9-09-2023,BHZVCP,BHZVCP6-09-2023-9-09-2023,CNFSAO,CNFSAO6-09-2023-9-09-2023,CNFCGH,CNFCGH6-09-2023-9-09-2023,CNFGRU,CNFGRU6-09-2023-9-09-2023,CNFVCP,CNFVCP6-09-2023-9-09-2023,PLUSAO,PLUSAO6-09-2023-9-09-2023,PLUCGH,PLUCGH6-09-2023-9-09-2023,PLUGRU,PLUGRU6-09-2023-9-09-2023,PLUVCP,PLUVCP6-09-2023-9-09-2023"
+        },
+        {
+          "name": "ngStorage-redirectAfterLogin",
+          "value": "\"\""
+        },
+        {
+          "name": "loggedUser",
+          "value": "{\"id\":14449,\"email\":\"arthur.souza@123milhas.com.br\",\"firstname\":\"Arthur\",\"fullname\":\"Arthur Perdigão\",\"document\":\"68908836080\",\"cellphone_number\":\"31999999999\",\"phone_number\":null,\"birthdate\":\"1998-08-19T00:00:00-03:00\",\"gender\":\"M\",\"status\":1,\"accept_terms\":\"2022-08-30T00:00:00-03:00\",\"confirmed_email\":\"2022-08-30T09:55:06-03:00\",\"is_staff\":0,\"is_super\":0,\"is_loyalty\":0,\"created_at\":\"2022-08-30T09:54:52-03:00\",\"updated_at\":\"2023-03-20T10:52:28-03:00\",\"corporate_name\":\"\",\"fantasy_name\":\"\",\"type_person\":0,\"lastname\":\"Perdigão\",\"receive_marketing\":1,\"api_token\":\"\",\"created_date\":null,\"code_back_office\":null,\"last_feedback_prompt\":\"2023-03-20T00:00:00-03:00\",\"deactivate_reason\":null,\"loyalty_date\":null,\"address\":{\"id\":14375,\"fk_user_id\":14449,\"title\":null,\"address\":\"Rua Virginópolis\",\"complement\":\"\",\"city\":\"Santa Luzia\",\"state\":\"MG\",\"zip\":\"33120070\",\"is_main\":null,\"number\":\"885\",\"country\":\"Brazil\",\"created_at\":\"2022-08-30 12:54:52\",\"updated_at\":\"2022-08-30 12:54:52\",\"county\":\"Asteca (São Benedito)\"}}"
+        },
+        {
+          "name": "originCity",
+          "value": "undefined"
+        },
+        {
+          "name": "currencyType",
+          "value": "Reais"
+        },
+        {
+          "name": "@cars/form-state",
+          "value": "{\"origem\":null,\"destino\":null,\"retirarData\":null,\"retirarHora\":null,\"devolverData\":null,\"devolverHora\":null}"
+        },
+        {
+          "name": "__kdtv",
+          "value": "t=1682707806734;i=dffdbec62d6f83ae62d0e7208ccfb98609c3a5cf"
+        }
+      ]
+    }
+  ]
+}
